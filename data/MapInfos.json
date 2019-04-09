@@ -1,5 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Strand","order":1,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":2,"expanded":false,"name":"MAP Bordbistro","order":2,"parentId":0,"scrollX":860,"scrollY":477}
+{"id":2,"expanded":false,"name":"Bordbistro","order":3,"parentId":3,"scrollX":860,"scrollY":477},
+{"id":3,"expanded":true,"name":"Bahnhof Kapitel 1","order":2,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":4,"expanded":true,"name":"Kiosk","order":5,"parentId":3,"scrollX":819,"scrollY":453},
+{"id":5,"expanded":true,"name":"Hotelzimmer","order":4,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":6,"expanded":false,"name":"Laden1","order":6,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"Laden2","order":7,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":false,"name":"Laden3","order":8,"parentId":3,"scrollX":0,"scrollY":0}
 ]
